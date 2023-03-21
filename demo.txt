@@ -1,5 +1,8 @@
+
 Git Demo
 
 GIT Init
 git add
-git commit
+git commit - second commit
+
+git checkout - third commit
